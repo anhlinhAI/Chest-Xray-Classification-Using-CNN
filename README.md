@@ -20,10 +20,15 @@ The COVID-19 pandemic has created an urgent need for effective diagnostic tools.
 
 ## Project Structure
 ├── ANN_Introduction.ipynb
+
 ├── ActivationFunctions.ipynb
+
 ├── CovidCNN_XrayClassification.ipynb
+
 ├── Madedata1.csv
+
 ├── covidApp.zip
+
 ├── README.md
 
 
